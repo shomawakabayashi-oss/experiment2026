@@ -3,6 +3,7 @@
 2026年度数理情報工学実験の記録です。
 
 ## 2026-04-10
+議事録→ https://docs.google.com/document/d/1n1NzdMse6Ag5fJDROJ_BikgwiaTB9rxqS9aTf1RUKTg/edit?pli=1&tab=t.0
 #####投票
 大城　🍎
 柴垣　🍏
